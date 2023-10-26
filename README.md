@@ -18,6 +18,11 @@ Hey! I'm a software engineer of 6+ years that loves to learn new skills and help
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephbartley&repo=airthings-api&show_owner=true&theme=github_dark" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/josephbartley/airthings-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephbartley&repo=botware-discord&show_owner=true&theme=github_dark" />
+  </a>
+</div>
 
 ## Socials
 - [WeLearnSWE Discord](https://discord.gg/rjb2gmrZQ9)

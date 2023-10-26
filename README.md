@@ -8,12 +8,12 @@ Hey! I'm a software engineer of 6+ years that loves to learn new skills and help
 </div>
 
 ## My Open Source Projects
-<div>
+<div align="center">
   <a href="https://github.com/josephbartley/parse-my-file" align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephbartley&repo=parse-my-file&show_owner=true&theme=github_dark"/>
   </a>
 </div>
-<div>
+<div align="center">
   <a href="https://github.com/josephbartley/airthings-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephbartley&repo=airthings-api&show_owner=true&theme=github_dark" />
   </a>

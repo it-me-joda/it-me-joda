@@ -1,7 +1,7 @@
 Hey! I'm a software engineer of 6+ years that loves to learn new skills and help other people on their journey in software!
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=josephbartley&show=prs_merged&show_icons=true&count_private=true&disable_animations=false&rank_icon=percentile&theme=github_dark](https://github-readme-stats-pi-hazel-84.vercel.app/api?username=josephbartley&show=prs_merged&show_icons=true&count_private=true&disable_animations=false&rank_icon=percentile&theme=github_dark)"/>
+  <img src="https://github-readme-stats-pi-hazel-84.vercel.app/api?username=josephbartley&show=prs_merged&show_icons=true&count_private=true&disable_animations=false&rank_icon=percentile&theme=github_dark"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephbartley&layout=compact&theme=github_dark"/>

@@ -24,8 +24,15 @@ Hey! I'm a software engineer of 6+ years that loves to learn new skills and help
   </a>
 </div>
 
-## Socials
+## Some organizations I have contributed to
+- [AWS](https://github.com/aws)
+- [Golang](https://github.com/golang)
+- [Scratch Foundation](https://github.com/scratch-foundation)
+
+## Where to find me
 - [WeLearnSWE Discord](https://discord.gg/rjb2gmrZQ9)
+- [LinkedIn](https://linkedin.com/in/mrjosephbartley)
+- [Email](mailto:josephdanielbartley@gmail.com)
 
 
 

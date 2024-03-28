@@ -27,7 +27,6 @@ Hey! I'm a software engineer of 6+ years that loves to learn new skills and help
 ## Some organizations I have contributed to
 - [AWS](https://github.com/aws)
 - [Golang](https://github.com/golang)
-- [Scratch Foundation](https://github.com/scratch-foundation)
 
 ## Where to find me
 - [WeLearnSWE Discord](https://discord.gg/rjb2gmrZQ9)

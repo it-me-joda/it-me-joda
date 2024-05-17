@@ -9,18 +9,18 @@ Hey! I'm a software engineer of 6+ years that loves to learn new skills and help
 
 ## My Open Source Projects
 <div align="center">
-  <a href="https://github.com/josephbartley/parse-my-file" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephbartley&repo=parse-my-file&show_owner=true&theme=github_dark"/>
+  <a href="https://github.com/it-me-joda/parse-my-file" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=it-me-joda&repo=parse-my-file&show_owner=true&theme=github_dark"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/josephbartley/airthings-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephbartley&repo=airthings-api&show_owner=true&theme=github_dark" />
+  <a href="https://github.com/it-me-joda/airthings-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=it-me-joda&repo=airthings-api&show_owner=true&theme=github_dark" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/josephbartley/airthings-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephbartley&repo=botware-discord&show_owner=true&theme=github_dark" />
+  <a href="https://github.com/it-me-joda/airthings-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=it-me-joda&repo=botware-discord&show_owner=true&theme=github_dark" />
   </a>
 </div>
 

@@ -30,8 +30,6 @@ Hey! I'm a software engineer of 7+ years that loves to learn new skills and help
 
 ## Where to find me
 - [WeLearnSWE Discord](https://discord.gg/rjb2gmrZQ9)
-- [LinkedIn](https://linkedin.com/in/mrjosephbartley)
-- [Email](mailto:josephdanielbartley@gmail.com)
 
 
 

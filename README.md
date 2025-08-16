@@ -4,13 +4,3 @@ Hey! I'm a software engineer of 7+ years that loves to learn new skills and help
   <img src="https://github-readme-stats-pi-hazel-84.vercel.app/api?username=it-me-joda&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true&disable_animations=false&rank_icon=percentile&theme=github_dark&include_all_commits=true&number_format=long&cache_seconds=600"/>
 </div>
 
-## Some organizations I have contributed to
-- [AWS](https://github.com/aws)
-- [Golang](https://github.com/golang)
-
-## Where to find me
-- [WeLearnSWE Discord](https://discord.gg/rjb2gmrZQ9)
-
-
-
-

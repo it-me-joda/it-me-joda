@@ -24,10 +24,7 @@ I mostly contribute to things I'm using at the moment which recently has mostly 
 <br/>
 [skein](https://github.com/rust-adventure/skein) - Skein is a tool that simplifies the process of using Blender assets in a Bevy project.
 
-I have also made a few contributions to AWS and Go over the years.
-
-[AWS CDK](https://github.com/aws/aws-cdk)
-[Go](https://github.com/golang/go)
+I have also made a few contributions to [AWS CDK](https://github.com/aws/aws-cdk) and [Go](https://github.com/golang/go) over the years.
 
 ## Professional experience
 
